@@ -1,0 +1,10 @@
+@import url("//gss.ebscohost.com/alvet/civica/edsapi/stylesheet.css");
+highlight{
+	font-weight:bold;
+}
+.eds-urls{
+	word-break:break-all;
+}
+.eds-refine .btn{
+	border:0px solid #FFF;
+}
